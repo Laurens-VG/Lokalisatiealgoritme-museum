@@ -9,21 +9,6 @@ Academiejaar 2019-2020
 Auteurs: Maxime Carella, Reiner De Smet, Laurens Van Goethem, Elias Vanhoutte\
 Project onder begeleiding van: Sanne Roegiers, David Van Hamme
 
-## Info
-Deadlines: 
-1. Project planning: 14 april
-2. Status update: 28 april
-3. Paper: 19 mei
-4. Documentatie van de source code: 10 juni
-5. Finale presentatie: 10 juni
-
-Taakverdeling:
-1. Database creation: Maxime & Laurens
-2. Painting detection: Reiner & Elias
-3. Matching: Reiner & Elias
-4. Localization: Maxime & Laurens
-5. Demo, aanduidingen op de videos plaatsen: Iedereen
-
 ## Folder: RESULTS
 excel files from final results
 
